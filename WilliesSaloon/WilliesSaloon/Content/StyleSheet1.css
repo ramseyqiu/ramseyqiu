@@ -1,0 +1,55 @@
+﻿body {
+
+
+}
+
+
+
+*{
+     padding:0px;
+     margin:0px;
+ }
+
+ h1{
+     font-family:Arial, sans-serif;
+     font-weight:400;
+     height: 60px;
+     width:100%;
+     background:black;
+     line-height:60px;
+     color:white;
+     
+ }
+
+ div.master{
+     width:250px;
+     height:666px;
+     background:#CCC;
+ }
+
+div a{
+    text-decoration:none;
+    color:black;
+    padding:20px;
+    padding-right:80px;
+}
+
+div ul li{
+    list-style-type:none;
+    display:block;
+    padding:15px;
+    border-bottom:1px solid black;
+}
+
+div ul li a:hover{
+    color:black;
+}
+
+.selected{
+    background:white;
+    
+}
+
+.selected a{
+    color:black;
+}
