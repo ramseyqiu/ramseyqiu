@@ -5,6 +5,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>Willies Saloon</title>
+
+    <script src="Scripts/jquery-3.3.1.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
     <link href="Content/StyleSheet1.css" rel="stylesheet" />
     <asp:ContentPlaceHolder ID="head" runat="server">
 
@@ -17,11 +21,11 @@
          <h1>Willies Saloon</h1>
         <div class="master"><br />
             <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Drinks</a></li>
-                <li><a href="#">Events</a></li>
-                <li><a href="#">Gallery</a></li>
-                <li><a href="#">Merchandise</a></li>
+                <li><a href="Home.aspx">Home</a></li>
+                <li><a href="Drinks.aspx">Drinks</a></li>
+                <li><a href="Events.aspx">Events</a></li>
+                <li><a href="Gallery.aspx">Gallery</a></li>
+                <li><a href="Merchandise.aspx">Merchandise</a></li>
             </ul>
         </div>
         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">

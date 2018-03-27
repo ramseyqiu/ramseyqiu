@@ -77,6 +77,7 @@
       <DependentUpon>Database1.mdf</DependentUpon>
     </Content>
     <Content Include="Content\StyleSheet1.css" />
+    <Content Include="Images\20245922_1280096575453003_4903260954145117187_n.jpg" />
     <Content Include="packages.config" />
     <Content Include="Site1.Master" />
     <Content Include="Scripts\jquery-3.3.1.slim.min.map" />
@@ -197,6 +198,7 @@
   <ItemGroup>
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
