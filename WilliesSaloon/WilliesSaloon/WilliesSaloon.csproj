@@ -77,6 +77,8 @@
       <DependentUpon>Database1.mdf</DependentUpon>
     </Content>
     <Content Include="Content\StyleSheet1.css" />
+    <Content Include="images\6o-P2w6l_400x400.jpg" />
+    <Content Include="images\Capture1.JPG" />
     <Content Include="packages.config" />
     <Content Include="Site1.Master" />
     <Content Include="Scripts\jquery-3.3.1.slim.min.map" />
