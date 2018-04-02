@@ -19,3 +19,6 @@ C:\Users\snipe\source\repos\ramseyqiu\WilliesSaloon\WilliesSaloon\bin\Microsoft.
 C:\Users\snipe\source\repos\ramseyqiu\WilliesSaloon\WilliesSaloon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\snipe\source\repos\ramseyqiu\WilliesSaloon\WilliesSaloon\obj\Debug\WilliesSaloon.dll
 C:\Users\snipe\source\repos\ramseyqiu\WilliesSaloon\WilliesSaloon\obj\Debug\WilliesSaloon.pdb
+C:\Users\ruofan\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\obj\Debug\WilliesSaloon.csprojResolveAssemblyReference.cache
+C:\Users\ruofan\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\obj\Debug\WilliesSaloon.dll
+C:\Users\ruofan\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\obj\Debug\WilliesSaloon.pdb
