@@ -78,6 +78,7 @@
     </Content>
     <Content Include="Content\StyleSheet1.css" />
     <Content Include="Images\20245922_1280096575453003_4903260954145117187_n.jpg" />
+    <Content Include="Images\Willies Saloon Orange.png" />
     <Content Include="packages.config" />
     <Content Include="Site1.Master" />
     <Content Include="Scripts\jquery-3.3.1.slim.min.map" />

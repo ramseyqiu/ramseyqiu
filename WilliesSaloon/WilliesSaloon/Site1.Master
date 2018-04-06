@@ -5,11 +5,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>Willies Saloon</title>
-
+    <meta name="viewport" content="width=devicee-width, initial-scale=1" />
     <script src="Scripts/jquery-3.3.1.min.js"></script>
     <script src="Scripts/bootstrap.min.js"></script>
     <link href="Content/bootstrap.min.css" rel="stylesheet" />
     <link href="Content/StyleSheet1.css" rel="stylesheet" />
+
     <asp:ContentPlaceHolder ID="head" runat="server">
 
     </asp:ContentPlaceHolder>
@@ -17,26 +18,47 @@
 </head>
 <body>
     <form id="form1" runat="server">
-    <div>
-         <h1>Willies Saloon</h1>
-        <div class="master"><br />
-            <ul>
-                <li><a href="Home.aspx">Home</a></li>
-                <li><a href="Drinks.aspx">Drinks</a></li>
-                <li><a href="Events.aspx">Events</a></li>
-                <li><a href="Gallery.aspx">Gallery</a></li>
-                <li><a href="Merchandise.aspx">Merchandise</a></li>
-            </ul>
+        <div class="header">
+            <img src="Images/Willies%20Saloon%20Orange.png" style="width:400px;height:200px;background:#111;" alt="Willies Saloon Logo" />
         </div>
+        <div class="sidenav">
+          <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <!--side navigation bar-->
+                <a href="Home.aspx">Home</a>
+                <a href="Drinks.aspx">Drinks</a>
+                <a href="Events.aspx">Events</a>
+                <a href="Gallery.aspx">Gallery</a>
+                <a href="Merchandise.aspx">Merchandise</a>
+            <br />
+            <br />
+            <br />
+            <!--Opening hours of Willies Saloon-->
+            <h4 style="color:white;"><u style="color:white;">Opening Hours</u></h4>
+            <p style="color:white;" class="text-center">12 pm - 2 am Monday through Sunday </p>
+            
+        </div>
+      
+        <div class="main"> 
         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
        
            
         </asp:ContentPlaceHolder>
-        <footer>
-            <p>(405) 377-7716 | 323 South Washington Street Stillwater, OK 74074 | www.facebook.com/williessaloonstillwater/</p>
-            <p>Willies Saloon 2018. All rights reserved</p>
+        
+         <footer>
+            <p><b>(405) 377-7716 | 323 South Washington Street Stillwater, OK 74074 | <a href="https://www.facebook.com/williessaloonstillwater/">Follow us on Facebook</a><br />
+            Willies Saloon 2018. All rights reserved</b></p>
         </footer>
     </div>
+        
+       
+            
     </form>
 </body>
 </html>
