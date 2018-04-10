@@ -30,7 +30,7 @@
             <ul>
                 <li><a href="#">Home</a></li>
                 <li><a href="#">Drinks</a></li>
-                <li><a href="#">Events</a></li>
+                <li><a href="Events.aspx">Events</a></li>
                 <li><a href="#">Gallery</a></li>
                 <li><a href="#">Merchandise</a></li>
             </ul>
