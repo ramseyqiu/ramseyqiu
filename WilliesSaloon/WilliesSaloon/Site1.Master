@@ -40,6 +40,9 @@
            
         </asp:ContentPlaceHolder>
         <footer>
+            <%-- below is the code for google map --%>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3222.99656716891!2d-97.07136288424987!3d36.11794138009473!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87b10a405bacaeff%3A0x2fcb1aba3aa6ef71!2sWillies+Saloon!5e0!3m2!1sen!2sus!4v1523476124354" width="1000" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
+            <%-- above is the code for google map --%>
             <div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
             <p>(405) 377-7716 | 323 South Washington Street Stillwater, OK 74074 | www.facebook.com/williessaloonstillwater/</p>
             <p>Willies Saloon 2018. All rights reserved</p>
