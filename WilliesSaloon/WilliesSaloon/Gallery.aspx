@@ -1,10 +1,11 @@
 ﻿<%@ Page Title="Gallery" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="Gallery.aspx.cs" Inherits="WilliesSaloon.WebForm4" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
-<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <h1><b>Bands</b></h1>
-     &nbsp
-    <div id="demo" class="carousel slide" data-ride="carousel">
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server" >
+      
+    
+        <h1><b>Bands</b></h1>  
+    <div id="demo" class="carousel slide"  data-ride="carousel" >
     <div class="carousel-inner">
     <div class="carousel-item active">
         <img src="Images/band1.jpg" />
@@ -47,17 +48,21 @@
     <span class="carousel-control-next-icon"></span>
   </a>
 </div>
+   
+    <div class="black">
     &nbsp
     &nbsp
-
-    <h1>The Bar</h1>
+        </div>
+    
+    
+        <h1>The Bar</h1>
       <div id="demo2" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner">
     <div class="carousel-item active">
         <img src="Images/thebar.jpg" />
     </div>
     <div class="carousel-item">
-        <img src="Images/thebar2.jpg" />
+        <img src="Images/thebar2.jpg"  />
     </div>
     <div class="carousel-item">
         <img src="Images/thebar3.jpg" />
@@ -94,7 +99,7 @@
     <span class="carousel-control-next-icon"></span>
   </a>
 </div>
-
+  
 
 
 </asp:Content>

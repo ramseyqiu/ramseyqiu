@@ -78,6 +78,8 @@
     </Content>
     <Content Include="Content\StyleSheet1.css" />
     <Content Include="Images\20245922_1280096575453003_4903260954145117187_n.jpg" />
+    <Content Include="Images\background1.jpg" />
+    <Content Include="Images\background2.JPG" />
     <Content Include="Images\band1.jpg" />
     <Content Include="Images\band10.jpg" />
     <Content Include="Images\band2.jpg" />
