@@ -1,13 +1,15 @@
-﻿body{
+﻿body {
+    background-color:#111;
 
 }
 
 
-*{
+
+/*{
      padding:0px;
      margin:0px;
  }
-
+*/
  h1{
      font-family:Arial, sans-serif;
      font-weight:400;
@@ -18,7 +20,7 @@
      color:white;
      
  }
-
+/*
  div.master{
      width:250px;
      height:666px;
@@ -51,3 +53,85 @@ div ul li a:hover{
 .selected a{
     color:black;
 }
+
+.main{
+    margin-left:250px;
+}
+    */
+.sidenav{
+    height:100%;
+    width:180px;
+    position:fixed;
+    z-index:1;
+    top:0;
+    left:0;
+    background-color:#111;
+    overflow-x: hidden;
+    padding-top: 20px;
+  
+    
+}
+
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color:white;
+    display:block;
+    
+}
+.sidenav a:hover{
+    color:darkorange;
+}
+
+.main{
+    margin-left:180px; /*same as the width of the sidenav*/
+     
+    padding: 0px 10px;
+}
+
+@media screen and (max-height: 450px){
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size:18px;}
+}
+
+h3.indent{
+    text-indent: 20%;
+}
+/*comment*/
+footer{
+    text-align:center;
+    /*
+    position:fixed;
+    left:5em;
+    bottom:0;
+    width:100%;
+    */
+}
+html{
+    background:#111;
+}
+
+.header{
+    margin-left:180px; /*same as the width of the sidenav*/ 
+    padding: 0px 10px;
+    background:#111;
+    text-align:center;
+}
+  .carousel-inner img {
+      width: 50%;
+      height: 50%;
+      text-align:center;
+      display:block ;
+      margin-left: auto;
+      margin-right: auto;
+      
+  }
+
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+  
