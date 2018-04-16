@@ -17,12 +17,17 @@
     
 </head>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <body>
 
 =======
 <body>
     <!--facebook api link-->
 >>>>>>> back-end-user
+=======
+<body>
+    <!--facebook api link-->
+>>>>>>> origin/Front-End-Branch
     <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -32,6 +37,7 @@
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 
     <form id="form1" runat="server">
@@ -46,6 +52,8 @@
                 <li><a href="#">Merchandise</a></li>
             </ul>
 =======
+=======
+>>>>>>> origin/Front-End-Branch
     <form id="form1" runat="server">
         <div class="header">
             <img src="Images/Willies%20Saloon%20Orange.png" style="width:400px;height:200px;background:#111;" alt="Willies Saloon Logo" />
@@ -72,7 +80,10 @@
             <h4 style="color:white;"><u style="color:white;">Opening Hours</u></h4>
             <p style="color:white;" class="text-center">12 pm - 2 am Monday through Sunday </p>
             
+<<<<<<< HEAD
 >>>>>>> back-end-user
+=======
+>>>>>>> origin/Front-End-Branch
         </div>
           <!--facebook api link-->
     <div id="fb-root"></div>
@@ -83,6 +94,7 @@
            
         </asp:ContentPlaceHolder>
 <<<<<<< HEAD
+<<<<<<< HEAD
         <footer>
             <%-- below is the code for google map --%>
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3222.99656716891!2d-97.07136288424987!3d36.11794138009473!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87b10a405bacaeff%3A0x2fcb1aba3aa6ef71!2sWillies+Saloon!5e0!3m2!1sen!2sus!4v1523476124354" width="1000" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -91,12 +103,17 @@
             <p>(405) 377-7716 | 323 South Washington Street Stillwater, OK 74074 | www.facebook.com/williessaloonstillwater/</p>
             <p>Willies Saloon 2018. All rights reserved</p>
 =======
+=======
+>>>>>>> origin/Front-End-Branch
         
          <footer>
              <div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
             <p><b>(405) 377-7716 | 323 South Washington Street Stillwater, OK 74074 | <a href="https://www.facebook.com/williessaloonstillwater/">Follow us on Facebook</a><br />
             Willies Saloon 2018. All rights reserved</b></p>
+<<<<<<< HEAD
 >>>>>>> back-end-user
+=======
+>>>>>>> origin/Front-End-Branch
         </footer>
     </div>
         

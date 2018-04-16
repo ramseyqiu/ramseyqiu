@@ -78,9 +78,12 @@
     </Content>
     <Content Include="Content\StyleSheet1.css" />
 <<<<<<< HEAD
+<<<<<<< HEAD
     <Content Include="images\6o-P2w6l_400x400.jpg" />
     <Content Include="images\Capture1.JPG" />
 =======
+=======
+>>>>>>> origin/Front-End-Branch
     <Content Include="Images\20245922_1280096575453003_4903260954145117187_n.jpg" />
     <Content Include="Images\background1.jpg" />
     <Content Include="Images\background2.JPG" />
@@ -105,7 +108,10 @@
     <Content Include="Images\thebar8.jpg" />
     <Content Include="Images\thebar9.jpg" />
     <Content Include="Images\Willies Saloon Orange.png" />
+<<<<<<< HEAD
 >>>>>>> back-end-user
+=======
+>>>>>>> origin/Front-End-Branch
     <Content Include="packages.config" />
     <Content Include="Site1.Master" />
     <Content Include="Scripts\jquery-3.3.1.slim.min.map" />

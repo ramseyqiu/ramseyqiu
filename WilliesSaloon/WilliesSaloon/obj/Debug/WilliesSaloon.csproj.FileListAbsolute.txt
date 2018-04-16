@@ -23,7 +23,10 @@ C:\Users\ruofan\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\obj\Debug\Wil
 C:\Users\ruofan\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\obj\Debug\WilliesSaloon.dll
 C:\Users\ruofan\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\obj\Debug\WilliesSaloon.pdb
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> origin/Front-End-Branch
 C:\Users\amccomb\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\obj\Debug\WilliesSaloon.csprojResolveAssemblyReference.cache
 C:\Users\amccomb\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\obj\Debug\WilliesSaloon.dll
 C:\Users\amccomb\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\obj\Debug\WilliesSaloon.pdb
@@ -45,4 +48,7 @@ C:\Users\amccomb\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\bin\WilliesS
 C:\Users\amccomb\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\bin\AspNet.ScriptManager.jQuery.dll
 C:\Users\amccomb\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\amccomb\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+<<<<<<< HEAD
 >>>>>>> back-end-user
+=======
+>>>>>>> origin/Front-End-Branch
