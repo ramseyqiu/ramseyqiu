@@ -22,3 +22,27 @@ C:\Users\snipe\source\repos\ramseyqiu\WilliesSaloon\WilliesSaloon\obj\Debug\Will
 C:\Users\ruofan\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\obj\Debug\WilliesSaloon.csprojResolveAssemblyReference.cache
 C:\Users\ruofan\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\obj\Debug\WilliesSaloon.dll
 C:\Users\ruofan\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\obj\Debug\WilliesSaloon.pdb
+<<<<<<< HEAD
+=======
+C:\Users\amccomb\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\obj\Debug\WilliesSaloon.csprojResolveAssemblyReference.cache
+C:\Users\amccomb\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\obj\Debug\WilliesSaloon.dll
+C:\Users\amccomb\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\obj\Debug\WilliesSaloon.pdb
+C:\Users\amccomb\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\bin\roslyn\csc.exe
+C:\Users\amccomb\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\amccomb\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\amccomb\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\amccomb\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\amccomb\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\amccomb\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\amccomb\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\amccomb\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\amccomb\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\bin\roslyn\vbc.exe
+C:\Users\amccomb\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\bin\roslyn\VBCSCompiler.exe
+C:\Users\amccomb\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\amccomb\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\bin\WilliesSaloon.dll.config
+C:\Users\amccomb\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\bin\WilliesSaloon.dll
+C:\Users\amccomb\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\bin\WilliesSaloon.pdb
+C:\Users\amccomb\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\amccomb\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\amccomb\Source\Repos\ramseyqiu\WilliesSaloon\WilliesSaloon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+>>>>>>> back-end-user

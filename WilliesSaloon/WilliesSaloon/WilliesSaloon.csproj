@@ -25,7 +25,7 @@
     <UseGlobalApplicationHostFile />
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
-    <TypeScriptToolsVersion>2.7</TypeScriptToolsVersion>
+    <TypeScriptToolsVersion>2.8</TypeScriptToolsVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -77,8 +77,35 @@
       <DependentUpon>Database1.mdf</DependentUpon>
     </Content>
     <Content Include="Content\StyleSheet1.css" />
+<<<<<<< HEAD
     <Content Include="images\6o-P2w6l_400x400.jpg" />
     <Content Include="images\Capture1.JPG" />
+=======
+    <Content Include="Images\20245922_1280096575453003_4903260954145117187_n.jpg" />
+    <Content Include="Images\background1.jpg" />
+    <Content Include="Images\background2.JPG" />
+    <Content Include="Images\band1.jpg" />
+    <Content Include="Images\band10.jpg" />
+    <Content Include="Images\band2.jpg" />
+    <Content Include="Images\band3.jpg" />
+    <Content Include="Images\band4.jpg" />
+    <Content Include="Images\band5.jpg" />
+    <Content Include="Images\band6.jpg" />
+    <Content Include="Images\band7.jpg" />
+    <Content Include="Images\band8.jpg" />
+    <Content Include="Images\band9.jpg" />
+    <Content Include="Images\thebar.jpg" />
+    <Content Include="Images\thebar10.jpg" />
+    <Content Include="Images\thebar2.jpg" />
+    <Content Include="Images\thebar3.jpg" />
+    <Content Include="Images\thebar4.jpg" />
+    <Content Include="Images\thebar5.jpg" />
+    <Content Include="Images\thebar6.jpg" />
+    <Content Include="Images\thebar7.jpg" />
+    <Content Include="Images\thebar8.jpg" />
+    <Content Include="Images\thebar9.jpg" />
+    <Content Include="Images\Willies Saloon Orange.png" />
+>>>>>>> back-end-user
     <Content Include="packages.config" />
     <Content Include="Site1.Master" />
     <Content Include="Scripts\jquery-3.3.1.slim.min.map" />
@@ -199,6 +226,7 @@
   <ItemGroup>
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
