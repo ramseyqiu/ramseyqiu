@@ -20,44 +20,17 @@
      color:white;
      
  }
-/*
- div.master{
-     width:250px;
-     height:666px;
-     background:#CCC;
+ h2{
+     color:orange;
  }
-
-div a{
-    text-decoration:none;
-    color:black;
-    padding:20px;
-    padding-right:80px;
-}
-
-div ul li{
-    list-style-type:none;
-    display:block;
-    padding:15px;
-    border-bottom:1px solid black;
-}
-
-div ul li a:hover{
-    color:black;
-}
-
-.selected{
-    background:white;
-    
-}
-
-.selected a{
-    color:black;
-}
-
-.main{
-    margin-left:250px;
-}
-    */
+ h4{
+     font-family:;
+     color:aqua;
+ }
+ p{
+     font-family:'Bookman Old Style' ;
+     color:white;
+ }
 .sidenav{
     height:100%;
     width:180px;

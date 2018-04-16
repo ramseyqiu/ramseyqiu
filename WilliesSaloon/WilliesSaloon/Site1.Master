@@ -30,7 +30,7 @@
     <form id="form1" runat="server">
         <div class="header">
             <img src="Images/Willies%20Saloon%20Orange.png" style="width:400px;height:200px;background:#111;" alt="Willies Saloon Logo" />
-        </div>
+                </div>
         <div class="sidenav">
           <br />
             <br />
@@ -55,7 +55,7 @@
             
         </div>
           <!--facebook api link-->
-    <div id="fb-root"></div>
+    <div id="fb-root2"></div>
       
         <div class="main"> 
         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">

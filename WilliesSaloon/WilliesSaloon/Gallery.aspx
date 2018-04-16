@@ -49,10 +49,10 @@
   </a>
 </div>
    
-    <div class="black">
+   
     &nbsp
     &nbsp
-        </div>
+       
     
     
         <h1>The Bar</h1>
