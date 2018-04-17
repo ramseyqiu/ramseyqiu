@@ -13,5 +13,11 @@ namespace WilliesSaloon
         {
 
         }
+
+        protected void SubmitButton_Click(object sender, EventArgs e)
+        {
+            SqlDataSource1.Insert();
+        }
+
     }
 }
