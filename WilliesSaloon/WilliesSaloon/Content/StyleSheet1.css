@@ -24,8 +24,8 @@
      color:orange;
  }
  h4{
-     font-family:;
-     color:aqua;
+    
+     color:white;
  }
  p{
      font-family:'Bookman Old Style' ;
@@ -69,7 +69,8 @@
 }
 
 h3.indent{
-    text-indent: 20%;
+    color:white;
+        text-indent: 20%;
 }
 /*comment*/
 footer{
