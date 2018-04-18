@@ -1,0 +1,80 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WilliesSaloon.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Willies Saloon</title>
+    <meta name="viewport" content="width=devicee-width, initial-scale=1" />
+    <script src="Scripts/jquery-3.3.1.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/StyleSheet1.css" rel="stylesheet" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+
+    </asp:ContentPlaceHolder>
+    
+</head>
+<body>
+    <!--facebook api link-->
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+    <form id="form1" runat="server">
+        <div class="header">
+            <img src="Images/Willies%20Saloon%20Orange.png" style="width:400px;height:200px;background:#111;" alt="Willies Saloon Logo" />
+        </div>
+        <div class="sidenav">
+          <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <!--side navigation bar-->
+                <a href="Home.aspx">Home</a>
+                <a href="Drinks.aspx">Drinks</a>
+                <a href="Events.aspx">Events</a>
+                <a href="Gallery.aspx">Gallery</a>
+                <a href="Merchandise.aspx">Merchandise</a>
+                <a href="Contact.aspx">Contact Us</a>
+            <br />
+            <br />
+            <br />
+            <!--Opening hours of Willies Saloon-->
+            <h4 style="padding: 6px 8px 6px 16px;"><u style="color:white;">Opening Hours</u></h4>
+            <p  class="text-center">12 pm - 2 am Monday through Sunday </p>
+            <p class="text-center"> *Holidays may vary</p>
+            
+        </div>
+          <!--facebook api link-->
+    <div id="fb2-root"></div>
+      
+        <div class="main"> 
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+       
+           
+        </asp:ContentPlaceHolder>
+        
+         <footer>
+             <div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+            <p><b>
+                (405) 377-7716 | 323 South Washington Street Stillwater, OK 74074 | <a href="https://www.facebook.com/williessaloonstillwater/"><img src="Images/logo-facebook.png" style="width:40px; height:auto;"/> Follow us on Facebook</a><br />
+            &copy Willies Saloon 2018. All rights reserved</b></p>
+        </footer>
+    </div>
+        
+       
+            
+    </form>
+</body>
+</html>
