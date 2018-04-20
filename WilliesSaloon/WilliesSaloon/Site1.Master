@@ -49,9 +49,7 @@
             <br />
             <br />
             <br />
-            <!--Opening hours of Willies Saloon-->
-            <h4 style="color:white;"><u style="color:white;">Opening Hours</u></h4>
-            <p style="color:white;" class="text-center">12 pm - 2 am Monday through Sunday </p>
+            
             
         </div>
           <!--facebook api link-->
@@ -66,6 +64,7 @@
          <footer>
              <div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
             <p><b>(405) 377-7716 | 323 South Washington Street Stillwater, OK 74074 | <a href="https://www.facebook.com/williessaloonstillwater/">Follow us on Facebook</a><br />
+                 Opening Hours  12 pm - 2 am Monday through Sunday <br />
             Willies Saloon 2018. All rights reserved</b></p>
         </footer>
     </div>
