@@ -22,6 +22,8 @@
      
  }
  h2{
+     font-family:Playbill;
+     font-size:60px;
      color:tomato;
  }
  h4{
@@ -29,7 +31,7 @@
      color:white;
  }
  p{
-     font-family:'Bookman Old Style' ;
+     font-family:'Lucida Calligraphy' ;
      color:white;
  }
 .sidenav{

@@ -9,7 +9,7 @@
     <!--Column 1-->
     <div class="col-sm-6">
         <!--Row 1-->
-        <h2><b>Signature Drinks</b></h2>
+        <h2>Signature Drinks</h2>
         <div>
          <h4>
             <b><u>Thunder Rolls</u></b>
@@ -52,7 +52,7 @@
             <p>Malibu, Captain Morgan, Island Pucker, and Cranberry Juice.</p>
             <p><b>$5.00</b></p>
         </div>
-        <h2><b><u>Beers on Tap</u></b></h2>
+        <h2><u>Beers on Tap</u></h2>
         <!--Row 7-->
         <div>
             <h4><b>Lone Star</b></h4>
@@ -72,7 +72,7 @@
     <!--Column 2-->
     <div class="col-sm-6">
         <!--Row 1-->
-        <h2><b>Willies' Shots</b></h2>
+        <h2>Willies' Shots</h2>
         <div>
             <h4><b><u>Rasberry Drop</u></b></h4>
             <p>Deep Eddy Lemon, Razzmatazz, and Sweet & Sour Mix.</p>
